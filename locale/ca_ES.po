@@ -1,0 +1,29 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:sale.shop,enough_stock:"
+msgid "Enough Stock"
+msgstr "Suficient estoc"
+
+msgctxt "field:sale.shop,enough_stock_qty:"
+msgid "Quantity Stock"
+msgstr "Quantitat estoc"
+
+msgctxt "help:sale.shop,enough_stock:"
+msgid "Check enough stock when convert a sale to quotation"
+msgstr "Comprova l'estoc suficient quan una venta passa a pressupost."
+
+msgctxt "help:sale.shop,enough_stock_qty:"
+msgid "Manage Stock is Product Quantity or Product Forecast Quantity"
+msgstr ""
+"Gestiona l'estoc per la quantitat del producte o la quantitat prevista del "
+"producte."
+
+msgctxt "selection:sale.shop,enough_stock_qty:"
+msgid "Forecast Quantity"
+msgstr "Quantitat prevista"
+
+msgctxt "selection:sale.shop,enough_stock_qty:"
+msgid "Quantity"
+msgstr "Quantitat"

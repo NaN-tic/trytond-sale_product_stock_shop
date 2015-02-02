@@ -1,0 +1,29 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:sale.shop,enough_stock:"
+msgid "Enough Stock"
+msgstr "Suficiente stock"
+
+msgctxt "field:sale.shop,enough_stock_qty:"
+msgid "Quantity Stock"
+msgstr "Cantidad stock"
+
+msgctxt "help:sale.shop,enough_stock:"
+msgid "Check enough stock when convert a sale to quotation"
+msgstr "Comprueba el stock suficiente cuando una venta pasa a presupuesto."
+
+msgctxt "help:sale.shop,enough_stock_qty:"
+msgid "Manage Stock is Product Quantity or Product Forecast Quantity"
+msgstr ""
+"Gestiona el stock por la cantidad del producto o la cantidad prevista del "
+"producto."
+
+msgctxt "selection:sale.shop,enough_stock_qty:"
+msgid "Forecast Quantity"
+msgstr "Cantidad prevista"
+
+msgctxt "selection:sale.shop,enough_stock_qty:"
+msgid "Quantity"
+msgstr "Cantidad"
