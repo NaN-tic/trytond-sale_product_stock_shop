@@ -23,3 +23,7 @@ class SaleShop:
     @staticmethod
     def default_enough_stock():
         return True
+
+    @staticmethod
+    def default_enough_stock_qty():
+        return 'quantity'
