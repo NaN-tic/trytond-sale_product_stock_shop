@@ -16,6 +16,9 @@ class Sale:
         '''Check enough stock from user preferences'''
         Shop = Pool().get('sale.shop')
 
+        if Transaction().context.get('without_warning'):
+            return False
+
         shop = Transaction().context.get('shop')
         if shop:
             shop = Shop(shop)
