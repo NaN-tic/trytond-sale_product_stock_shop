@@ -6,10 +6,10 @@ from trytond.model import fields
 from trytond.pyson import Eval
 
 __all__ = ['SaleShop']
-__metaclass__ = PoolMeta
 
 
 class SaleShop:
+    __metaclass__ = PoolMeta
     __name__ = 'sale.shop'
     enough_stock = fields.Boolean('Enough Stock',
         help='Check enough stock when convert a sale to quotation')
